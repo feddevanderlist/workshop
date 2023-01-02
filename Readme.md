@@ -1,6 +1,7 @@
 # Workshop informatie
 
 Dit is het start project voor het doen van de workshops. Hierin staat informatie en code voor de lessen.
+De powerpoints zijn te vinden in de extraResources folder.
 
 ## Workshop 1 - introductie & instalatie
 
@@ -25,6 +26,11 @@ en draai de CucumberTestSuite in de src/it/java/nl/vandalist/it folder <br>
 Dit zou het resultaat moeten zijn [foto](extraResources/ResultaatVanTestcontainers.png)
 
 ## Workshop 2 - unit testing
+
+Mocht je de presentatie nog een keer willen bekijken zie: [Presentatie](extraResources/Workshops-week2.pptx) <br>
+Voor de opdrachten zie
+[Uitleg opdrachten voor week 2](src/main/java/week2/Readme.md) <br>
+Voorbeelden voor alle assertions staan [hier](src/test/java/week2/AssertionsExamplesTest.java)
 
 ## Workshop 3 - api testing
 
