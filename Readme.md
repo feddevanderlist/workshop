@@ -2,7 +2,7 @@
 
 Dit is het start project voor het doen van de workshops. Hierin staat informatie en code voor de lessen.
 
-## Workshop 1
+## Workshop 1 - introductie & instalatie
 
 Installeren van de volgende onderdelen <br>
 **Java** 17 of nieuwer https://jdk.java.net/archive/ <br> <br>
@@ -22,7 +22,15 @@ de [MainTest](src/test/java/week1/MainTest.java) in de test folder uit.
 Mocht je willen controleren of je docker ook werkt. clone dan deze
 repo `https://github.com/feddevanderlist/TestContainersDemoApplication.git` <br>
 en draai de CucumberTestSuite in de src/it/java/nl/vandalist/it folder <br>
-Dit zou het resultaat moeten zijn [foto](extraResources/ResultaatVanTestcontainers.png) 
+Dit zou het resultaat moeten zijn [foto](extraResources/ResultaatVanTestcontainers.png)
 
-## Workshop 2
+## Workshop 2 - unit testing
+
+## Workshop 3 - api testing
+
+## Workshop 4 - api testing
+
+## Workshop 5 - frontend testing
+
+## Workshop 6 - afronding
 
