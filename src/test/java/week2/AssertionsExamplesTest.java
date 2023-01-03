@@ -1,6 +1,11 @@
 package week2;
 
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.function.Executable;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.NoSuchElementException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -117,5 +122,24 @@ class AssertionsExamplesTest {
         int[] a = {1, 2};
         int[] b = {1, 2};
         assertArrayEquals(a, b);
+    }
+
+    /**
+     * Sommige functies kunnen in een foute situatie een error gooien
+     * Om dit toch te kunnen testen is er een test om dit te doen
+     * In dit geval proberen we een item uit een lege lijst te halen
+     * En dit kan niet
+     * Ook kun je een message meegeven in het geval dat je ook nog wil testen voor de juiste foutmeldingstekst
+     */
+    @Test
+    void assertThrowsTest() {
+        List<Integer> testLijst = new ArrayList<>();
+        assertThrows(IndexOutOfBoundsException.class, new Executable() { // op deze regel zet je de exceptie die je verwacht (je mag it uitproberen zodat je de juiste fout hebt
+            @Override
+            public void execute() {
+                Integer test = testLijst.get(1);
+                assertNull(test);
+            }
+        }, "");
     }
 }
