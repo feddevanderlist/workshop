@@ -9,7 +9,7 @@ Week 2 bestaat uit 3 onderdelen.
 Mijn advies is om de volgorde van de opsomming aan te houden met de opdracht. <br>
 De regels zijn simpel:
 
-- White box mag je alles de code in de folder week2/whitebox bekijken
+- White box mag je alle code in de folder week2/whitebox bekijken
 - Black box mag je alleen maar in de testfolder werken /test/java/week2/blackbox
 - Grey box ook alleen in de test folder maar dan staat er meer informatie in het bestand
 - Volg de best practices uit de presentatie
@@ -18,4 +18,11 @@ De regels zijn simpel:
 - Bedenk goed welke assert je nodig hebt. AssertTrue, AssertFalse en assertEquals zul je het meeste gebruiken
 
 Ik ga volgende week vragen welke methode het beste werkt. Whitebox, Greybox of Blackbox
+
+Mocht je java kennis niet voldoende zijn. Is het ook goed als je uitschrijft wat je allemaal gaat testen.
+Ga dan uit van de volgende structuur
+
+- Gegeven deze situatie
+- Als ik dit uitvoer
+- Verwacht ik dit resultaat
 

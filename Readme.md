@@ -6,7 +6,7 @@ De powerpoints zijn te vinden in de extraResources folder.
 ## Workshop 1 - introductie & instalatie
 
 Installeren van de volgende onderdelen <br>
-**Java** 17 of nieuwer https://jdk.java.net/archive/ <br> <br>
+**Java** 17 of nieuwer https://adoptium.net/temurin/releases/ (De .msi is de installer) <br> <br>
 **IntelliJ**
 https://www.jetbrains.com/idea/download/#section=windows <br/><br/>
 **Postman** https://www.postman.com/downloads/?utm_source=postman-home <br/><br/>

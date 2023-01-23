@@ -7,6 +7,12 @@ import static week2.whitebox.RandomNumberGenerator.generateRandomNumber;
 
 class RandomNumberGeneratorTest {
 
+    /**
+     * Voor de huidige opdracht wil functie generateRandomNumber testen
+     * Begin met testen of je een random getal terug krijgt tussen 0 en 10
+     * Vervolgens maak je er tussen 0 en 100 van
+     * Ook kun je zonder start getal kijken of dit goed gaat
+     */
     @Test
     void testRandomNumberTussen0enX() {
         int randomGetal = generateRandomNumber(10);

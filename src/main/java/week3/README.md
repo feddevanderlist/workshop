@@ -1,5 +1,13 @@
 ## Workshop 3
 
+Doe eerst een `git add`
+Doe een `git commit -m "jouw commit message"`
+Als laatste een git pull
+
+Als alternatief kun je in intellij onder git eerst een commit doen.
+Vervolgens doe je een git pull
+
+
 Api Testen met postman <br>
 Clone dit project: `https://github.com/feddevanderlist/TestContainersDemoApplication.git`
 
