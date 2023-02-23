@@ -19,5 +19,8 @@ class LoginTest {
     @Test
     void loginTest() {
         Login login = new Login("app", "test");
+        assertTrue(login.isSuccesvol());
+        Login login1 = new Login("App", "test");
+        assertFalse(login1.isSuccesvol(), "resultaat van foute login is:" + login1.isSuccesvol());
     }
 }
