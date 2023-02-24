@@ -34,9 +34,13 @@ Voorbeelden voor alle assertions staan [hier](src/test/java/week2/AssertionsExam
 
 ## Workshop 3 - api testing
 
+[Uitleg opdrachten voor week 3](src/main/java/week3/README.md) <br>
+
 ## Workshop 4 - api testing
 
 ## Workshop 5 - frontend testing
+
+[Uitleg opdrachten voor week 5](src/main/java/week5/README.MD) <br>
 
 ## Workshop 6 - afronding
 
