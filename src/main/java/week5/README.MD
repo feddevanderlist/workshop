@@ -1,6 +1,6 @@
 # week 5
 
-cypress en beslis tabellen.
+cypress en beslistabellen.
 
 Voordat we beginnen ga in de terminal naar de week5 folder.
 De snelste manier om dit te doen is: rechtermuisknop op week5 en dan `open in` vervolgens terminal
@@ -9,6 +9,9 @@ Type dan het volgende commando: `npm i` dan zou er text moeten verschijnen in he
 Wacht niet tot dit klaar is, maar begin met het maken van de beslistabel. <br>
 Aan de hand van de informatie op de volgende url:
 http://158.101.196.212/#/decision <br>
+_tip er zijn 3 condities en 8 uitkomsten. De uitkomsten zijn niet uniek_
+
+**De codes die je krijgt zijn geen woorden**
 
 Is dat gelukt? Kijk of je handmatig de code voor het scorebord kan krijgen. <br>
 Waarschijnlijk zal de installatie nu voltooid zijn. In datzelfde terminal venster type `npx cypress open` <br>
