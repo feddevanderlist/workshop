@@ -19,6 +19,8 @@ klik op e2e testen en selecteer een van de browsers. En klik de [decision.cy.js]
 Zoals uitgelegd kun je nu door middel van de `add command to test` en vul je gegevens uit de beslistabel in. <br>
 Als dit goed is gegaan dan krijg je een code EN is het aantal testen dat je hebt gedaan 8.
 
+Dit vraag ik ook in de les maar zouden jullie dit feedback formulier willen vullen? https://docs.google.com/forms/d/e/1FAIpQLSfL7NYuFu1d7X6mjhlc4NZVoQwdDAiQX7MXt1wafjfTsJkBdg/viewform?usp=sf_link
+
 Mocht dit allemaal gelukt zijn dan kun je na gaan denken over opties voor het invoerveld van de volgende link: http://158.101.196.212/#/validatie <br>
 Ook hier kun je als je alles goed invult een code terug krijgen. Bestaande uit 6 letters. <br>
 
